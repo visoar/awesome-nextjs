@@ -139,6 +139,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 
+- [UllrAI SaaS Starter](https://github.com/ullrai/SaaS-Starter) - MIT Next.js 16 SaaS starter with Better Auth, Stripe, Drizzle/PostgreSQL, Cloudflare R2, and English/Chinese localization.
+
 ## Extensions
 
 - [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
